@@ -26,7 +26,9 @@ Note: to connect to NCI neo4j dev instances, you would need to be behind the NCI
 
 ## Run
 (run script)
+```
 python check_neo4j.py
+```
 
 (The script will either return the message `Yes the database is accessible` (indicating success), 
-or it will return en error message of some sort)
+or it will return an error message of some sort)
